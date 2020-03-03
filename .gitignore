@@ -3,3 +3,4 @@ obj/
 /packages/
 /.idea/
 /codealike.json
+/.aws-sam/
